@@ -32,7 +32,7 @@ Related to the machine learning model, i trained many models, like MultinomialNB
 
 Of Course, if you want to distribute, please give the credits, and if you want to study this, feel free to explore, modify and anything
 
-## How to run
+## How to run local
 
 First, i used python 3.7.5, using anaconda enviroment, but if you want, you can find the Requirements.txt in the repo
 >pip install -r Requirements.txt
