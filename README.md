@@ -29,7 +29,7 @@ Related to the machine learning model, i trained many models, like MultinomialNB
 
 ## TO-DO list
 
-- Use roBERTa pre-trained model (WIP)
+- Try roBERTa pre-trained model (WIP)
 - MultiLanguage (WIP)
 - Connect to an Email (Waiting)
 - Analize email attachments, like photos (Waiting)
