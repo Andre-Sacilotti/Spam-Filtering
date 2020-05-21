@@ -1,6 +1,6 @@
 # Spam-Filtering
 
-Reading an Machine Learning Book, was proposed to create some spam filter, and that's what i got, with precision near 100% and a recall of 98%
+Reading an Machine Learning Book, was proposed to create some spam filter, and that's what i got: precision near 100% and a recall of 98%
 
 ## Try it Online!
 
