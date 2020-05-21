@@ -16,7 +16,7 @@ And another case:
 
 The repository has 3 principal files:
 
-SpamClassification.ipynb, where i made the Exploratory Data Analysis, and the model choose.
+SpamClassification.ipynb, where I did the Exploratory Data Analysis and the choice of the ideal model.
 
 Classification.py, here's where the system read the saved model, and do the prediction.
 
@@ -27,6 +27,12 @@ In the text processing, i made a pipeline, that replace numbers to a string "Num
 
 Related to the machine learning model, i trained many models, like MultinomialNB, SVC, RandomForest, and other, but the best performance was in the SVC with specified parameters,
 
+## TO-DO list
+
+- Use roBERTa pre-trained model (WIP)
+- Connect to an Email (Waiting)
+- Analize email attachments, like photos (Waiting)
+- Get more data and define more classes, like (Spam, Promotional, Job, University) (Waiting)
 
 ## Can i use this?
 
